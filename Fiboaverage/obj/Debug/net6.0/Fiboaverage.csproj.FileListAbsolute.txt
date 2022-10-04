@@ -1,0 +1,15 @@
+C:\Users\Kagan\source\repos\Fiboaverage\bin\Debug\net6.0\Fiboaverage.exe
+C:\Users\Kagan\source\repos\Fiboaverage\bin\Debug\net6.0\Fiboaverage.deps.json
+C:\Users\Kagan\source\repos\Fiboaverage\bin\Debug\net6.0\Fiboaverage.runtimeconfig.json
+C:\Users\Kagan\source\repos\Fiboaverage\bin\Debug\net6.0\Fiboaverage.dll
+C:\Users\Kagan\source\repos\Fiboaverage\bin\Debug\net6.0\Fiboaverage.pdb
+C:\Users\Kagan\source\repos\Fiboaverage\obj\Debug\net6.0\Fiboaverage.csproj.AssemblyReference.cache
+C:\Users\Kagan\source\repos\Fiboaverage\obj\Debug\net6.0\Fiboaverage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kagan\source\repos\Fiboaverage\obj\Debug\net6.0\Fiboaverage.AssemblyInfoInputs.cache
+C:\Users\Kagan\source\repos\Fiboaverage\obj\Debug\net6.0\Fiboaverage.AssemblyInfo.cs
+C:\Users\Kagan\source\repos\Fiboaverage\obj\Debug\net6.0\Fiboaverage.csproj.CoreCompileInputs.cache
+C:\Users\Kagan\source\repos\Fiboaverage\obj\Debug\net6.0\Fiboaverage.dll
+C:\Users\Kagan\source\repos\Fiboaverage\obj\Debug\net6.0\refint\Fiboaverage.dll
+C:\Users\Kagan\source\repos\Fiboaverage\obj\Debug\net6.0\Fiboaverage.pdb
+C:\Users\Kagan\source\repos\Fiboaverage\obj\Debug\net6.0\Fiboaverage.genruntimeconfig.cache
+C:\Users\Kagan\source\repos\Fiboaverage\obj\Debug\net6.0\ref\Fiboaverage.dll

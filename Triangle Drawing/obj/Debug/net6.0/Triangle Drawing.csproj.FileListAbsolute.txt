@@ -1,0 +1,15 @@
+C:\Users\Kagan\source\repos\Triangle Drawing\bin\Debug\net6.0\Triangle Drawing.exe
+C:\Users\Kagan\source\repos\Triangle Drawing\bin\Debug\net6.0\Triangle Drawing.deps.json
+C:\Users\Kagan\source\repos\Triangle Drawing\bin\Debug\net6.0\Triangle Drawing.runtimeconfig.json
+C:\Users\Kagan\source\repos\Triangle Drawing\bin\Debug\net6.0\Triangle Drawing.dll
+C:\Users\Kagan\source\repos\Triangle Drawing\bin\Debug\net6.0\Triangle Drawing.pdb
+C:\Users\Kagan\source\repos\Triangle Drawing\obj\Debug\net6.0\Triangle Drawing.csproj.AssemblyReference.cache
+C:\Users\Kagan\source\repos\Triangle Drawing\obj\Debug\net6.0\Triangle Drawing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kagan\source\repos\Triangle Drawing\obj\Debug\net6.0\Triangle Drawing.AssemblyInfoInputs.cache
+C:\Users\Kagan\source\repos\Triangle Drawing\obj\Debug\net6.0\Triangle Drawing.AssemblyInfo.cs
+C:\Users\Kagan\source\repos\Triangle Drawing\obj\Debug\net6.0\Triangle Drawing.csproj.CoreCompileInputs.cache
+C:\Users\Kagan\source\repos\Triangle Drawing\obj\Debug\net6.0\Triangle Drawing.dll
+C:\Users\Kagan\source\repos\Triangle Drawing\obj\Debug\net6.0\refint\Triangle Drawing.dll
+C:\Users\Kagan\source\repos\Triangle Drawing\obj\Debug\net6.0\Triangle Drawing.pdb
+C:\Users\Kagan\source\repos\Triangle Drawing\obj\Debug\net6.0\Triangle Drawing.genruntimeconfig.cache
+C:\Users\Kagan\source\repos\Triangle Drawing\obj\Debug\net6.0\ref\Triangle Drawing.dll
