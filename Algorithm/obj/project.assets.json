@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Kagan\\Documents\\GitHub\\C-Projects\\RemoveChar\\RemoveChar.csproj",
-      "projectName": "RemoveChar",
-      "projectPath": "C:\\Users\\Kagan\\Documents\\GitHub\\C-Projects\\RemoveChar\\RemoveChar.csproj",
+      "projectUniqueName": "C:\\Users\\Kagan\\Documents\\GitHub\\C-Projects\\Algorithm\\Algorithm.csproj",
+      "projectName": "Algorithm",
+      "projectPath": "C:\\Users\\Kagan\\Documents\\GitHub\\C-Projects\\Algorithm\\Algorithm.csproj",
       "packagesPath": "C:\\Users\\Kagan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Kagan\\Documents\\GitHub\\C-Projects\\RemoveChar\\obj\\",
+      "outputPath": "C:\\Users\\Kagan\\Documents\\GitHub\\C-Projects\\Algorithm\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -67,7 +67,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.304\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.305\\RuntimeIdentifierGraph.json"
       }
     }
   }
