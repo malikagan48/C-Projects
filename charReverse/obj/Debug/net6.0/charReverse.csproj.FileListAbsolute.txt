@@ -1,0 +1,15 @@
+C:\Users\Kagan\Documents\GitHub\C-Projects\charReverse\bin\Debug\net6.0\charReverse.exe
+C:\Users\Kagan\Documents\GitHub\C-Projects\charReverse\bin\Debug\net6.0\charReverse.deps.json
+C:\Users\Kagan\Documents\GitHub\C-Projects\charReverse\bin\Debug\net6.0\charReverse.runtimeconfig.json
+C:\Users\Kagan\Documents\GitHub\C-Projects\charReverse\bin\Debug\net6.0\charReverse.dll
+C:\Users\Kagan\Documents\GitHub\C-Projects\charReverse\bin\Debug\net6.0\charReverse.pdb
+C:\Users\Kagan\Documents\GitHub\C-Projects\charReverse\obj\Debug\net6.0\charReverse.csproj.AssemblyReference.cache
+C:\Users\Kagan\Documents\GitHub\C-Projects\charReverse\obj\Debug\net6.0\charReverse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kagan\Documents\GitHub\C-Projects\charReverse\obj\Debug\net6.0\charReverse.AssemblyInfoInputs.cache
+C:\Users\Kagan\Documents\GitHub\C-Projects\charReverse\obj\Debug\net6.0\charReverse.AssemblyInfo.cs
+C:\Users\Kagan\Documents\GitHub\C-Projects\charReverse\obj\Debug\net6.0\charReverse.csproj.CoreCompileInputs.cache
+C:\Users\Kagan\Documents\GitHub\C-Projects\charReverse\obj\Debug\net6.0\charReverse.dll
+C:\Users\Kagan\Documents\GitHub\C-Projects\charReverse\obj\Debug\net6.0\refint\charReverse.dll
+C:\Users\Kagan\Documents\GitHub\C-Projects\charReverse\obj\Debug\net6.0\charReverse.pdb
+C:\Users\Kagan\Documents\GitHub\C-Projects\charReverse\obj\Debug\net6.0\charReverse.genruntimeconfig.cache
+C:\Users\Kagan\Documents\GitHub\C-Projects\charReverse\obj\Debug\net6.0\ref\charReverse.dll
